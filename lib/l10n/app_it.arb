@@ -1,0 +1,17 @@
+{
+  "@@locale": "it",
+  "appTitle": "La mia app",
+  "welcomeTitle": "La tua prossima app inizia qui",
+  "welcomeBody": "Personalizza questo spazio.",
+  "language": "Lingua",
+  "languageSystem": "Lingua del dispositivo",
+  "languageEnglish": "English",
+  "languageItalian": "Italiano",
+  "appearance": "Aspetto",
+  "themeSystem": "Sistema",
+  "themeLight": "Chiaro",
+  "themeDark": "Scuro",
+  "updateReady": "Un aggiornamento è pronto. Riavvia l’app per installarlo.",
+  "updateRestart": "Riavvia",
+  "updateInstallFailed": "Impossibile installare l’aggiornamento. Riprova alla prossima apertura dell’app."
+}

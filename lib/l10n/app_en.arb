@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "welcomeTitle": "Your next app starts here",
+  "welcomeBody": "Make this space your own.",
+  "language": "Language",
+  "languageSystem": "Device language",
+  "languageEnglish": "English",
+  "languageItalian": "Italiano",
+  "appearance": "Appearance",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "updateReady": "An update is ready. Restart the app to install it.",
+  "updateRestart": "Restart",
+  "updateInstallFailed": "Couldn't install the update. Try again when you next open the app."
+}

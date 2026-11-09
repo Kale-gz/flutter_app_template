@@ -1,0 +1,5 @@
+# Copy to key.properties. Use forward slashes for an absolute Windows path.
+storeFile=C:/path/to/your-upload-key.jks
+storePassword=REPLACE_ME
+keyAlias=upload
+keyPassword=REPLACE_ME
